@@ -17,5 +17,4 @@ dart compile exe moscow.dart
 moscow <path_to_mp3_file>
 ```
 
-<img width="387" height="392" alt="ascii" src="https://github.com/user-attachments/assets/694e2a51-7a66-4497-a481-602710546df0" />
 <img width="855" height="777" alt="screenshot" src="https://github.com/user-attachments/assets/f40c67b1-3af4-4e70-9af1-c76bf8483594" />
