@@ -13,6 +13,8 @@ dart compile exe moscow.dart
 
 ## Usage
 
+On Windows only WAV is supported.
+
 ```bash
 moscow <path_to_mp3_file>
 ```
