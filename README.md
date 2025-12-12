@@ -5,15 +5,13 @@ Custom Advent of Code 2025 project displaying burning Saint Basil's Cathedral wi
 
 ## Compiling
 
-Dependencies: mpg123, ffplay or play
+Dependencies: mpg123, ffplay or play (Linux/UNIX), afplay (macOS); on Windows only WAV is supported.
 
 ```bash
 dart compile exe moscow.dart
 ```
 
 ## Usage
-
-On Windows only WAV is supported.
 
 ```bash
 moscow <path_to_mp3_file>
